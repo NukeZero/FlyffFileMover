@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "source": "Output/AccountServer/Release/AccountServer.exe",
+      "destination": "Server/1. Account.exe"
+    },
+    {
+      "source": "Output/CacheServer/Release/CacheServer.exe",
+      "destination": "Server/6. Cache.exe"
+    },
+    {
+      "source": "Output/Certifier/Release/Certifier.exe",
+      "destination": "Server/2. Certifier.exe"
+    },
+    {
+      "source": "Output/CoreServer/Release/CoreServer.exe",
+      "destination": "Server/4. Core.exe"
+    },
+    {
+      "source": "Output/DatabaseServer/Release/DatabaseServer.exe",
+      "destination": "Server/3. Database.exe"
+    },
+    {
+      "source": "Output/LoginServer/Release/LoginServer.exe",
+      "destination": "Server/5. Login.exe"
+    },
+    {
+      "source": "Output/WorldServer/Release/WorldServer.exe",
+      "destination": "Server/7. World.exe"
+    },
+    {
+      "source": "Output/WorldDialog/Release/WorldDialog.dll",
+      "destination": "Resource/WorldDialog.dll"
+    },
+    {
+      "source": "Output/BetaPatchClient/Release/BetaPatchClient.exe",
+      "destination": "Client/Flyff.exe"
+    },
+    {
+      "source": "Output/Neuz/NoGameguard/Neuz.exe",
+      "destination": "Client/Neuz.exe"
+    }
+  ]
+}
